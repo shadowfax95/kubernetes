@@ -4,4 +4,4 @@ namespace: flux-system
 resources:
   - sources
   # - ingress
-  # - postgres
+  - postgres
